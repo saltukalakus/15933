@@ -10,7 +10,7 @@ requires a small API change in Lock object creator wrapper functions.
 run.js and run_ok.js in lock_10_4_2 can be compared to see how the problem is fixed.
 
 
-<b>01-Login:</b> Official pure js lock.js sample
+<b>01-Login:</b> Official pure js 10.x lock.js sample
 
 <b>lock_9_3_1:</b>  Works out of box. 
 
