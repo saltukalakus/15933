@@ -1,0 +1,1 @@
+var config = {auth0: {clientId: 'YOUR_CLIENT_ID', domain: 'YOUR_DOMAIN'}};
