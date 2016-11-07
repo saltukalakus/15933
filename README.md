@@ -1,9 +1,9 @@
 # 15933
 
-<b> Temporary project will be removed shortly</b> 
+<b> Test an issue for ZD ticket 15933</b> 
 
 Tried to simulate the problem with a basic setup. Didn't provide implementations for some of the functions used but 
-could reproduce the problem of not called "authenticated" handler in 10.x lock.
+could reproduce the problem of non called "authenticated" handler in 10.x lock.
 
 <b>01-Login:</b> Official pure js lock.js sample
 
