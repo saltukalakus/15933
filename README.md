@@ -7,7 +7,7 @@ could reproduce the problem of not called "authenticated" handler in 10.x lock.
 
 <b>01-Login:</b> Official pure js lock.js sample
 
-<b>loc_9_3_1:</b>  Works out of box. 
+<b>lock_9_3_1:</b>  Works out of box. 
 
 * app.js => Received code
 * app_converted.js => ES5 converted code of app.js with Babel
